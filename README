@@ -1,0 +1,6 @@
+This is a sample projectsed created based on ERC20 and try to follow the best practices. such as:
+	Avoid state changes after external calls 
+	Try to resue audit existing codes (such as Openzepping)
+	has the ability to pause the contract if the contract is in risk
+	Try to avoid the overflow
+	Avoid the Reentrancy attack
